@@ -1,8 +1,0 @@
-class Test{
-psvm(String[]args){
-
-s.o.p("Rutura");
-
-}
-
-}
